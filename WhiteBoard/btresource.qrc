@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/close48.png</file>
+        <file>resource/draw48.png</file>
+        <file>resource/draw64.ico</file>
+        <file>resource/handle.png</file>
+        <file>resource/leftArrow48.png</file>
+        <file>resource/leftArrow64.ico</file>
+        <file>resource/lock48.png</file>
+        <file>resource/lock64.ico</file>
+        <file>resource/unlock48.png</file>
+        <file>resource/unlock64.ico</file>
+        <file>resource/rgb48.png</file>
+        <file>resource/clean64.ico</file>
+        <file>resource/close64.ico</file>
+        <file>resource/rgb32.png</file>
+        <file>resource/clean48.png</file>
+    </qresource>
+</RCC>
